@@ -18,6 +18,8 @@
 
 We build custom software, multi-tenant SaaS and the infrastructure that runs underneath it: from the database to the deploy, observability included.
 
+The name is a choice: **iron**, what lasts, over **vain**, what is done in vain. We cut what is only for show and deliver the foundation your product stands on.
+
 **What we work with**
 
 `TypeScript` · `Bun / Node.js` · `React` · `React Native` · `PHP / Laravel` · `Go` · `Rust` · `PostgreSQL` · `Redis` · `Docker` · `OpenTelemetry`
